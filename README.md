@@ -2,7 +2,7 @@
 
 Due to inconsistency of 256 color terminal support across
 terminal applications, it may be desirable to force the
-$TERM value to it's -256color variant.
+$TERM value to its -256color variant.
 
 For example, this is often accomplished in tmux by means
 of adding the following to a tmux.conf file:
